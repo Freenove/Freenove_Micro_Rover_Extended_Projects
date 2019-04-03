@@ -1,5 +1,7 @@
 # Freenove Micro:Rover
 
+**Freenove_Micro_Rover_Extended_Projects**
+
 <img src='Picture/icon.png' width='30%'/>
 
 ## How to download
