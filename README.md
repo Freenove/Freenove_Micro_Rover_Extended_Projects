@@ -11,12 +11,12 @@
 
 ## Files
 * The files for this product and their introduction are as follows:
-Name|Description
---|--
-Expanding Projects 		|   Projects, contains code and video
-Picture            		|   Picture resource
-Readme.md          		|   Instructions
-Extended Tutorial.pdf   |	User Manual
+| Name|Description |
+| -- | -- |
+| Expanding Projects 		|   Projects, contains code and video 	| 
+| Picture            		|   Picture resource 					| 
+| Readme.md          		|   Instructions 						| 
+| Extended Tutorial.pdf   	|	User Manual 						| 
 
 ## Support
 * Freenove provides free and quick technical support, including but not limited to:
