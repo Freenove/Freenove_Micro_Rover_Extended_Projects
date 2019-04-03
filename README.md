@@ -10,7 +10,7 @@
   If you have any difficulties, please send email to our support for help.
 
 ## Files
-  The files for this product and their introduction are as follows:
+* The files for this product and their introduction are as follows:
     * Expanding Projects      Projects, contains code and video
     * Picture                 Picture resource
     * Readme.md               Instructions
