@@ -6,8 +6,8 @@
 
 ## How to download
 
-  Please click the green "Clone or download" button, then click "Download ZIP" button in the pop-up window to download the zip file that contains all these files. Clicking the "Open in Desktop" button will lead you to install Github software instead of downloading these files. 
-  If you have any difficulties, please send email to our support for help.
+Please click the green "Clone or download" button, then click "Download ZIP" button in the pop-up window to download the zip file that contains all these files. Clicking the "Open in Desktop" button will lead you to install Github software instead of downloading these files. 
+<br>If you have any difficulties, please send email to our support for help.
 
 ## Files
 ### The files for this product and their introduction are as follows
@@ -28,12 +28,12 @@ Extended Tutorial.pdf | User Manual
 
 * Please send email to:
     * support@freenove.com
-  On working day, we usually reply to you within 24 hours.
+<br>On working day, we usually reply to you within 24 hours.
 
 ## Copyright
-  Freenove reserves all rights to the files for this product. No copies or plagiarizations are allowed for the purpose of commercial use. 
-  The code and circuit involved in this product are released as Creative Commons Attribution ShareAlike 3.0 (http://creativecommons.org/licenses/by-sa/3.0/legalcode). This means you can use them on your own derived works, in part or completely, as long as you also adopt the same license. 
-  Freenove brand and Freenove logo are copyright of Freenove Creative Technology Co., Ltd and cannot be used without formal permission.
+<br>Freenove reserves all rights to the files for this product. No copies or plagiarizations are allowed for the purpose of commercial use. 
+<br>The code and circuit involved in this product are released as Creative Commons Attribution ShareAlike 3.0 (http://creativecommons.org/licenses/by-sa/3.0/legalcode). This means you can use them on your own derived works, in part or completely, as long as you also adopt the same license. 
+<br>Freenove brand and Freenove logo are copyright of Freenove Creative Technology Co., Ltd and cannot be used without formal permission.
 
 ## About
 * Freenove is an open-source electronics platform. Freenove is committed to helping customer quickly realize the creative idea and product prototypes, making it easy to get started for enthusiasts of programing and electronics and launching innovative open source products. Our services include:
